@@ -1,5 +1,8 @@
 ## Hi there, i'm giekk 👋
 
+My skills:
+
+
 <!--
 **giekk/giekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

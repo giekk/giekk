@@ -2,6 +2,12 @@
 
 My skills:
 
+---
+
+**My Skills**
+
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,bash,php,mysql,qt,docker&perline=4)](https://skillicons.dev)<br/>
+
 
 <!--
 **giekk/giekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

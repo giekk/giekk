@@ -1,7 +1,5 @@
 ## Hi there, i'm giekk 👋
 
-My skills:
-
 ---
 
 **My Skills**

@@ -4,7 +4,7 @@
 
 **My Skills**
 
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,bash,php,mysql,qt,docker&perline=4)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,bash,php,sql,qt,docker&perline=4)](https://skillicons.dev)<br/>
 
 
 <!--

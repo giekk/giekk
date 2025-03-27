@@ -4,7 +4,7 @@
 
 **My Skills**
 
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,qt,php,mysql,java,sql&perline=4)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,qt,php,mysql,java,html&perline=4)](https://skillicons.dev)<br/>
 
 
 <!--

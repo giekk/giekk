@@ -15,7 +15,7 @@
 </p>
 
 ### ⚡ GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giekk&show_icons=true&theme=dark&hide_border=false) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giekk&show_icons=true&theme=radical) 
 
 
 <!--

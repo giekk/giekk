@@ -2,17 +2,20 @@
 
 ---
 
-**My Skills**
+### 🛠 My Skills
 
 [![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,php,js,linux,git,mysql,qt&perline=4)](https://skillicons.dev)<br/>
 
 ---
-**Most Used Languages**
+### 📊 Most Used Languages  
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giekk&layout=compact&theme=dark&hide_border=true" /></a> |
 |-----|
 
 </p>
+
+### ⚡ GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giekk&show_icons=true&theme=radical) 
 
 
 <!--

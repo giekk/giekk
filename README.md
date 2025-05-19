@@ -9,12 +9,13 @@
 ---
 ### 📊 Most Used Languages  
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giekk&layout=compact&theme=dark&hide_border=false" /></a> 
-</p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giekk&layout=compact&theme=dark&hide_border=true" /></a> |
+|-----|
 
 ### ⚡ GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giekk&show_icons=true&theme=radical) 
-
+| <a href="https://github-readme-stats.vercel.app/api?username=giekk&show_icons=true&theme=radical&hide_border=true" /></a> |
+|-----|
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giekk&show_icons=true&theme=radical) -->
 
 <!--
 **giekk/giekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

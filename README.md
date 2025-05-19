@@ -9,11 +9,11 @@
 ---
 ### 📊 Most Used Languages  
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giekk&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giekk&layout=compact&theme=radical&hide_border=false" /></a> |
 |-----|
 
 ### ⚡ GitHub Stats  
-| <a href="https://github-readme-stats.vercel.app/api?username=giekk&show_icons=true&theme=radical&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=giekk&show_icons=true&theme=radical&hide_border=false" /></a> |
 |-----|
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giekk&show_icons=true&theme=radical) -->
 

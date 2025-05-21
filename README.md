@@ -4,7 +4,7 @@
 
 ### 🛠 My Skills
 
-[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,php,js,linux,git,mysql,qt,maven,debian,postgresql&perline=4)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,php,js,linux,git,mysql,qt,maven,debian,postgresql,bash&perline=4)](https://skillicons.dev)<br/>
 
 ---
 ### 📊 Most Used Languages  
